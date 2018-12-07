@@ -18,6 +18,9 @@ Lyft OSM team does not participate in bulk editing or importing data created by 
 ### List of Project we are working on:
 *In Progress*
 
+## Quality Control
+*In Progress*
+
 ## How to contact us
 
 For any questions please reachout to team's manager [Alexandra Kazakova](https://www.openstreetmap.org/user/alexkaz) or reach the entire Lyft OSM Team by sending an email to dct-osm(at)lyft.com 
