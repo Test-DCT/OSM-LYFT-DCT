@@ -18,7 +18,8 @@ Lyft OSM team does not participate in bulk editing or importing data created by 
 ### [List of Project we are working on](https://github.com/OSM-DCT-Lyft/US/issues?q=is%3Aopen+is%3Aissue)
 
 ## Quality Control
-*In Progress*
+
+Currently our process is internal double blind quality control. We use the tools listed in the wiki as well as manual analysis of the OSM tags and geometries to ensure quality of our work. 
 
 ## How to contact us
 
