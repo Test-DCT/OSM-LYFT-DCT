@@ -21,6 +21,11 @@ Lyft OSM team does not participate in bulk editing or importing data created by 
 
 Currently our process is internal double blind quality control. We use the tools listed in the wiki as well as manual analysis of the OSM tags and geometries to ensure quality of our work. 
 
+## OSM Training Decks 
+
+Our training materials that we use to train OSM Lyft Team Members are publically posted. 
+### [List of OSM Training Decks](https://github.com/OSM-DCT-Lyft/US/wiki/OSM-Training-Decks)
+
 ## How to contact us
 
 For any questions please reachout to team's manager [Alexandra Kazakova](https://www.openstreetmap.org/user/alexkaz) or reach the entire Lyft OSM Team by sending an email to dct-osm(at)lyft.com 
