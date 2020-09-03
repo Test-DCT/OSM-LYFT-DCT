@@ -9,7 +9,7 @@ This repo is for organized edits made by Lyft OSM team to OpenStreetMap.
 
 ## Who we are
 
-We are a small team of trained OSM editors located in Seattle, WA. Here is a list of all the members of [Lyft OSM Team](https://github.com/OSM-DCT-Lyft/US/wiki/OSM-Team-Members)
+We are a team of trained OSM editors located in Seattle, WA and Minsk, Belarus. Here is a list of all the members of [Lyft OSM Team](https://github.com/OSM-DCT-Lyft/US/wiki/OSM-Team-Members)
 
 ## What are we working on
 
