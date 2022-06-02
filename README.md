@@ -28,4 +28,4 @@ Our training materials that we use to train OSM Lyft Team Members are publically
 
 ## How to contact us
 
-For any questions please reachout to team's manager [Alexandra Kazakova](https://www.openstreetmap.org/user/alexkaz) or reach the entire Lyft OSM Team by sending an email to dct-osm(at)lyft.com 
+For any questions please reachout by sending an email to dct-osm(at)lyft.com 
