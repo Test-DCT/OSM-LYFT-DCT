@@ -4,12 +4,12 @@ This repo is for organized edits made by Lyft OSM team to OpenStreetMap.
 
 ## OSM at Lyft
 
-[Transportation as a Service, using OSM at Lyft to improve your ride](https://2018.stateofthemap.us/program/transportation-as-a-service-using-osm-at-lyft-to-improve-your-ride.html) State of the Map US, 2018
+[Transportation as a Service, using OSM at Lyft to improve your ride](https://2018.stateofthemap.us/program/transportation-as-a-service-using-osm-at-lyft-to-improve-your-ride.html) State of the Map US, 2018.
 
 
 ## Who we are
 
-We are a team of trained OSM editors located in Seattle, WA; Minsk, Belarus and Poland. Here is a list of all the members of [Lyft OSM Team](https://github.com/OSM-DCT-Lyft/US/wiki/OSM-Team-Members)
+We are a team of trained OSM editors located in Seattle, WA; Minsk, Belarus and Poland. Here is a list of all the members of [Lyft OSM Team](https://github.com/OSM-DCT-Lyft/US/wiki/OSM-Team-Members).
 
 ## What are we working on
 
@@ -28,4 +28,4 @@ Our training materials that we use to train OSM Lyft Team Members are publically
 
 ## How to contact us
 
-For any questions please reachout by sending an email to dct-osm(at)lyft.com 
+For any questions please contact us by sending an email to dct-osm(at)lyft.com.
