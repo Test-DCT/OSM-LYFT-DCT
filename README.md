@@ -13,7 +13,7 @@ We are a team of trained OSM editors located in Seattle, WA; Minsk, Belarus and 
 
 ## What are we working on
 
-Lyft OSM team does not participate in bulk editing or importing data created by AI algorithms. Instead we have been focusing on improving the OSM map manually in the areas that can improve the rideshare experience currently and in the future.
+Lyft OSM team does not participate in bulk editing. Instead we have been focusing on improving the OSM map manually in the areas that can improve the rideshare experience currently and in the future.
 
 ### [List of Projects we are working on](https://github.com/OSM-DCT-Lyft/US/issues?q=is%3Aopen+is%3Aissue)
 
